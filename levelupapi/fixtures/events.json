@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "description": "Gonna be fun!",
+            "date": "2022-01-10",
+            "time": "5:00",
+            "game_id": 1,
+            "organizer_id": 1,
+            "attendees": [1]
+        }
+    },
+    {
+        "model": "levelupapi.event",
+        "pk": 2,
+        "fields": {
+            "description": "Woohoo!",
+            "date": "2022-03-29",
+            "time": "5:00",
+            "game_id": 2,
+            "organizer_id": 1,
+            "attendees": [1]
+        }
+    }
+]
